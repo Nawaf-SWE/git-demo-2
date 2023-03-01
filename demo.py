@@ -1,5 +1,5 @@
 def square(x):
-    return x**2
+    return pow(x, 2)
 
 
 
